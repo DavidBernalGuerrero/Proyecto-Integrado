@@ -6,20 +6,22 @@ A continuación se muestran algunas capturas de las diferentes secciones de la w
 
 ## HOME
 
-#![Home](https://github.com/DavidBernalGuerrero/TrackTracer/blob/master/capturas/capturaHome.png)
+![Home](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/home1.png)
+![Home](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/home2.png)
+![Home](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/home3.png)
 
 ## LOGIN
 
-#![Login](https://github.com/DavidBernalGuerrero/TrackTracer/blob/master/capturas/login.png)
+![Login](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/login.PNG)
 
 ## REGISTRO
 
-#![Registro](https://github.com/DavidBernalGuerrero/TrackTracer/blob/master/capturas/registro.png)
+![Registro](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/registro.PNG)
 
 ## GESTION Y ADMINISTRACION DE USUARIOS
 
-#![GestionUsuarios](https://github.com/DavidBernalGuerrero/TrackTracer/blob/master/capturas/gestionUsuarios.png)
+![GestionUsuarios](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/administracion.PNG)
 
 ## ADMINISTRACION DEL DISPOSITIVO
 
-#![AdministracionUsuarios](https://github.com/DavidBernalGuerrero/TrackTracer/blob/master/capturas/admin
+![AdministracionUsuarios](https://github.com/DavidBernalGuerrero/Proyecto-Integrado/blob/master/capturas/gestionUsuario.PNG)
